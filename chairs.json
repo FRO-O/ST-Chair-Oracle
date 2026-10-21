@@ -1,0 +1,1154 @@
+[
+  {
+    "name": "A1155 Accent Chair",
+    "seen_in": "Admiral Clancy's office",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/a1155.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/a1155.jpg"
+  },
+  {
+    "name": "Armondo Loveseat",
+    "seen_in": "Titan-A crew quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/armondo-loveseat.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/armondo-loveseat.jpg"
+  },
+  {
+    "name": "Artifort F300",
+    "seen_in": "Earth Spacedock loungeEnterprise-D quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/artifort-f300.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/artifort-f300.jpg"
+  },
+  {
+    "name": "Artifort F549 Tulip Midi",
+    "seen_in": "Enterprise-D quartersEnterprise-D sickbay officeVissian ship",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/artifort-tulip-midi.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/artifort-tulip-midi.jpg"
+  },
+  {
+    "name": "Artifort F582 Ribbon Chair",
+    "seen_in": "Stratos, Ardana",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/artifort-f582-ribbon.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/artifort-f582-ribbon.jpg"
+  },
+  {
+    "name": "Artifort F598 Groovy",
+    "seen_in": "Enterprise-D quartersEnterprise-D lounges",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/artifort-f598-groovy.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/artifort-f598-groovy.jpg"
+  },
+  {
+    "name": "Artifort Pala",
+    "seen_in": "Vance's office at Starfleet HQ",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/artifort-pala.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/artifort-pala.jpg"
+  },
+  {
+    "name": "Balzo sofa set",
+    "seen_in": "Starling's office",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/balzo.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/balzo.jpg"
+  },
+  {
+    "name": "Barcelona Chair",
+    "seen_in": "Admiral Janeway's apartment (alternate future)",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/barcelona.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/barcelona.jpg"
+  },
+  {
+    "name": "Brigadier Sofa",
+    "seen_in": "Voyager mess hall",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/brigadier.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/brigadier.jpg"
+  },
+  {
+    "name": "Bubble Chair",
+    "seen_in": "Aenar city",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/bubble-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/bubble-chair.jpg"
+  },
+  {
+    "name": "Cardona Swivel Lounge Chair",
+    "seen_in": "SNW-Enterprise ready room",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/cardona.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/cardona.jpg"
+  },
+  {
+    "name": "Carmen Armchair",
+    "seen_in": "Vaatrik Pallra's house on Bajor",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/carmen.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/carmen.jpg"
+  },
+  {
+    "name": "Chadwick Modular Sofa",
+    "seen_in": "Spock's quarters on the DIS-Enterprise",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/chadwick-modular-sofa.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/chadwick-modular-sofa.jpg"
+  },
+  {
+    "name": "Chromcraft Sculpta Unicorn",
+    "seen_in": "Deep Space K-7Sigma Draconis VIThe Burnhams' lab",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/chromatic-sculpta-unicorn.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/chromatic-sculpta-unicorn.jpg"
+  },
+  {
+    "name": "ClassiCon Bibendum",
+    "seen_in": "Worf's quartersCrusher's quartersVoyager crew quartersVissian ship",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/classicon-bibendum.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/classicon-bibendum.jpg"
+  },
+  {
+    "name": "Cobra Pipeline Sofa",
+    "seen_in": "Stardust City Reproductive Health Services",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/pipeline.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/pipeline.jpg"
+  },
+  {
+    "name": "Corona Chair",
+    "seen_in": "Sikla Medical Facility on Malcor IIIStardust City Reproductive Health Services",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/corona-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/corona-chair.jpg"
+  },
+  {
+    "name": "Directional Arriviste",
+    "seen_in": "Enterprise-D quartersEnterprise-E quartersAdmiral Freeman's apartment",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/directional-lounge-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/directional-lounge-chair.jpg"
+  },
+  {
+    "name": "DS-1025 Terrazza",
+    "seen_in": "Sneed's place on M'Ttalas Prime32nd century Federation Headquarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/ds-1025.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/ds-1025.jpg"
+  },
+  {
+    "name": "EJ6 Ø-Chair",
+    "seen_in": "Starbase 173",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/o-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/o-chair.jpg"
+  },
+  {
+    "name": "Elda Lounge Chair",
+    "seen_in": "Romulan commander's room on D7",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/elda-lounge-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/elda-lounge-chair.jpg"
+  },
+  {
+    "name": "Faz Modular Sofa",
+    "seen_in": "Coppelius Station",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/faz.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/faz.jpg"
+  },
+  {
+    "name": "Field Lounge Chair",
+    "seen_in": "SNW-Enterprise crew quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/field-lounge-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/field-lounge-chair.jpg"
+  },
+  {
+    "name": "Floating Sofaby William Andrus",
+    "seen_in": "SS Eleos bridge",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/floating-sofa.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/floating-sofa.jpg"
+  },
+  {
+    "name": "Groeten uit Holland",
+    "seen_in": "Malcor III",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/groeten.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/groeten.jpg"
+  },
+  {
+    "name": "Harp Chair",
+    "seen_in": "Spock's quarters on the Enterprise-A",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/harp-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/harp-chair.jpg"
+  },
+  {
+    "name": "hm85 Solo",
+    "seen_in": "Admiral Pike's office",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/hm85.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/hm85.jpg"
+  },
+  {
+    "name": "Human Being Chair",
+    "seen_in": "Aenar city",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/human-being.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/human-being.jpg"
+  },
+  {
+    "name": "Kilkis Chair",
+    "seen_in": "Silaran Prin's hiding place",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/kilkis.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/kilkis.jpg"
+  },
+  {
+    "name": "LC2 Petit Confort Sofa & Armchair",
+    "seen_in": "Libby's apartment in San Francisco (alternate reality)",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/l2c-petit-confort.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/l2c-petit-confort.jpg"
+  },
+  {
+    "name": "Lincoln Lounge Chair",
+    "seen_in": "Discovery crew quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/lincoln-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/lincoln-chair.jpg"
+  },
+  {
+    "name": "Lobster Chair",
+    "seen_in": "Discovery ready room",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/lobster.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/lobster.jpg"
+  },
+  {
+    "name": "Madison Dimension 2400",
+    "seen_in": "Original Enterprise captain's chair",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/madison-dimension-2400.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/madison-dimension-2400.jpg"
+  },
+  {
+    "name": "Madison Swivel Chair",
+    "seen_in": "Captain Pike's quarters on the Enterprise",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/pike-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/pike-chair.jpg"
+  },
+  {
+    "name": "Mayan Sofa",
+    "seen_in": "Enterprise-D crew lounge",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/mayan-sofa.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/mayan-sofa.jpg"
+  },
+  {
+    "name": "Meridiana Chair",
+    "seen_in": "Coppelius Station",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/meridiana.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/meridiana.jpg"
+  },
+  {
+    "name": "Model 248",
+    "seen_in": "Cochrane's house",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/model-248.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/model-248.jpg"
+  },
+  {
+    "name": "Model 576",
+    "seen_in": "Sam Kirk's home on Deneva",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/model-576.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/model-576.jpg"
+  },
+  {
+    "name": "Modern Sectional Sofa",
+    "seen_in": "Enterprise-D crew quartersEnterprise-D loungesPrometheus crew quartersVoyager crew quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/modern-sectional-sofa-1.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/modern-sectional-sofa-1.jpg"
+  },
+  {
+    "name": "Modesty Veiled Armchair",
+    "seen_in": "32nd century Federation Headquarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/modesty.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/modesty.jpg"
+  },
+  {
+    "name": "Movimento",
+    "seen_in": "Deep Space 9 guest quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/movimento.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/movimento.jpg"
+  },
+  {
+    "name": "Mushroom Chair",
+    "seen_in": "Enterprise-D quartersEnterprise-E quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/mushroom-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/mushroom-chair.jpg"
+  },
+  {
+    "name": "Nautilus Chair",
+    "seen_in": "Yanas Tigan's house",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/nautilus.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/nautilus.jpg"
+  },
+  {
+    "name": "Optima Chair",
+    "seen_in": "Scotty's quarters on the Enterprise-D",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/optima.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/optima.jpg"
+  },
+  {
+    "name": "Ox Chair",
+    "seen_in": "Dr. Soong's labAnnorax's weapon ship",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/ox.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/ox.jpg"
+  },
+  {
+    "name": "Pearson International Airport Lounge Chair",
+    "seen_in": "SNW-Enterprise crew quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/pearson.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/pearson.jpg"
+  },
+  {
+    "name": "Platner Arm Chair",
+    "seen_in": "Eminiar VIICounselor Troi's office on the Enterprise-D",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/platner-arm-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/platner-arm-chair.jpg"
+  },
+  {
+    "name": "Platner Lounge Chair",
+    "seen_in": "Eminiar VIICounselor Troi's office on the Enterprise-D",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/platner-lounge-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/platner-lounge-chair.jpg"
+  },
+  {
+    "name": "President Lounge Chair 265",
+    "seen_in": "Kirk's apartment",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/president-lounge-chair-265.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/president-lounge-chair-265.jpg"
+  },
+  {
+    "name": "Prosim Sedni Lounge Chair",
+    "seen_in": "Mirror Terok Nor",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/prosim-sedni.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/prosim-sedni.jpg"
+  },
+  {
+    "name": "Prosim Sni Chaise",
+    "seen_in": "Mirror Terok Nor",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/prosim-sni.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/prosim-sni.jpg"
+  },
+  {
+    "name": "Ribbon Chairby Steve Leonard",
+    "seen_in": "Data's quarters on the Enterprise-DVoyager ready roomTrip's quarters on Enterprise NX-01",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/steve-leonard-for-brayton.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/steve-leonard-for-brayton.jpg"
+  },
+  {
+    "name": "Rocking Chaiseby Milo Baughman",
+    "seen_in": "Enterprise-D crew quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/rocking-chaise-baughman.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/rocking-chaise-baughman.jpg"
+  },
+  {
+    "name": "Serpentine Sectional",
+    "seen_in": "Counselor Troi's office on the Enterprise-DVoyager ready room",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/serpentine-sectional.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/serpentine-sectional.jpg"
+  },
+  {
+    "name": "Sancarlo Armchair",
+    "seen_in": "Enterprise-D crew quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/sancarlo.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/sancarlo.jpg"
+  },
+  {
+    "name": "Spix Chair",
+    "seen_in": "Replicatable \"Personal gift item\"",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/dtec.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/dtec.jpg"
+  },
+  {
+    "name": "Tongue Chair",
+    "seen_in": "Sneed's place on M'Ttalas Prime",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/tongue.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/tongue.jpg"
+  },
+  {
+    "name": "Star Trek Chair",
+    "seen_in": "Torres/Paris quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/star-trek.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/star-trek.jpg"
+  },
+  {
+    "name": "Stokke Ekstrem",
+    "seen_in": "Ocampa homeworld",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/stokke-ekstrem.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/stokke-ekstrem.jpg"
+  },
+  {
+    "name": "Stokke Globe Garden",
+    "seen_in": "Tarellian shipWorf's quartersTulgana IVUSS Cerritos",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/stokke-globe-garden.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/stokke-globe-garden.jpg"
+  },
+  {
+    "name": "Suspens",
+    "seen_in": "Ten ForwardEnterprise-D crew quartersStarbase 173Voyager crew quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/suspens.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/suspens.jpg"
+  },
+  {
+    "name": "Suspension",
+    "seen_in": "Ten ForwardVoyager mess hall",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/ten-forward.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/ten-forward.jpg"
+  },
+  {
+    "name": "Swan Chair",
+    "seen_in": "32nd century Federation Council",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/swan.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/swan.jpg"
+  },
+  {
+    "name": "Swivel Lounge Chairby Milo Baughman",
+    "seen_in": "Kirk's apartment",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/swivel-chair-baughman.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/swivel-chair-baughman.jpg"
+  },
+  {
+    "name": "Swivel Rocker Club Chairby Milo Baughman",
+    "seen_in": "Planet Q",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/swivel-rocker-club-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/swivel-rocker-club-chair.jpg"
+  },
+  {
+    "name": "Tatlin Spiral Sofa",
+    "seen_in": "Kivas Fajo's collection room",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/tatlin-spiral-sofa.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/tatlin-spiral-sofa.jpg"
+  },
+  {
+    "name": "Tucker Chair",
+    "seen_in": "Tekeny Ghemor's houseDinaal hospital",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/tucker.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/tucker.jpg"
+  },
+  {
+    "name": "Turner Chair",
+    "seen_in": "Enterprise-D guest quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/turner-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/turner-chair.jpg"
+  },
+  {
+    "name": "Vitra Park Swivel Armchair",
+    "seen_in": "Admiral Pike's office",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/vitra-park.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/vitra-park.jpg"
+  },
+  {
+    "name": "Willow Chair",
+    "seen_in": "Ligon IIAngosia IIITarquin's planet",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/willow-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/willow-chair.jpg"
+  },
+  {
+    "name": "Yield Swivel Chair",
+    "seen_in": "Admiral Clancy's office",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/yield.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/yield.jpg"
+  },
+  {
+    "name": "Africa Armchair",
+    "seen_in": "Starbase 1",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/africa-armchair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/africa-armchair.jpg"
+  },
+  {
+    "name": "Andres swivel armchair",
+    "seen_in": "Pike's quarters on SNW-Enterprise",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/andres-armchair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/andres-armchair.jpg"
+  },
+  {
+    "name": "Argyle Chair",
+    "seen_in": "Ventax IIKai Winn's officeTarquin's planetT'Pring's home on Vulcan",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/argyle-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/argyle-chair.jpg"
+  },
+  {
+    "name": "Arrben chrome & faux leather chair",
+    "seen_in": "Starbase 375Enterprise-E ready room",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/arrben.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/arrben.jpg"
+  },
+  {
+    "name": "Brno Chair",
+    "seen_in": "Starling's office",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/brno.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/brno.jpg"
+  },
+  {
+    "name": "Brutalist dining chairby Adrian Pearsall",
+    "seen_in": "Vulcan High Command",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/brutalist-pearsall.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/brutalist-pearsall.jpg"
+  },
+  {
+    "name": "Burke 115",
+    "seen_in": "Original Enterprise bridgeOriginal Enterprise briefing roomOriginal Enterprise recreation roomOriginal Enterprise crew quartersStarbase 11USS TsiolkovskyAtlec shipDIS-Enterprise bridge",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/burke-115-2.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/burke-115-2.jpg"
+  },
+  {
+    "name": "Burke 116",
+    "seen_in": "Enterprise crew quartersEnterprise sickbay officeStarbase 11USS Tsiolkovsky",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/burke-116.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/burke-116.jpg"
+  },
+  {
+    "name": "Cado Cantilever 290",
+    "seen_in": "Earth Spacedock lounge",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/cado-cantilever-290.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/cado-cantilever-290.jpg"
+  },
+  {
+    "name": "Cassina LC7",
+    "seen_in": "Rutia IVMoab IVStarfleet Academy cadet's quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/cassina-lc7.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/cassina-lc7.jpg"
+  },
+  {
+    "name": "Costes Chair",
+    "seen_in": "Ren's house on Banean homeworldDS9 crew quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/costes.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/costes.jpg"
+  },
+  {
+    "name": "Dimple Closed Shell Chair",
+    "seen_in": "Discovery mess hall",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/dimple-closed.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/dimple-closed.jpg"
+  },
+  {
+    "name": "Dining chairby Anna Castelli Ferrieri",
+    "seen_in": "Riker's quarters on the Enterprise-DUtopia Planitia simulation",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/kartell-dining.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/kartell-dining.jpg"
+  },
+  {
+    "name": "Dining chair (I)by Constantini Pietro",
+    "seen_in": "Chancellor's office on Malcor IIIKataanRomulan WarbirdDorvan V",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/chair-constantini.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/chair-constantini.jpg"
+  },
+  {
+    "name": "Dining chair (II)by Constantini Pietro",
+    "seen_in": "Quark's quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/dining-chair-constantini-pietro.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/dining-chair-constantini-pietro.jpg"
+  },
+  {
+    "name": "Dining chairby Robert JostenDeep Space 9 guest quartersFarius Prime bar602 BarKlingon Bird-of-PreyDS9: \"Honor Among Thieves\"ENT: \"First Flight\"ENT: \"Cold Station 12\"Robert Josten designed these chairs with the split aluminium backrest some time in the 1970's.",
+    "seen_in": "Deep Space 9 guest quartersFarius Prime bar602 BarKlingon Bird-of-Prey",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/chair-josten.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/chairs-honoramongthieves.jpg"
+  },
+  {
+    "name": "Dr. Glob Chair",
+    "seen_in": "Carraya IV prison campEnterprise-D science labRonara Prime colony",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/drglob.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/drglob.jpg"
+  },
+  {
+    "name": "Ed Archer Chair",
+    "seen_in": "Admiral Janeway's apartment (alternate future)Commodore Forrest's office",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/ed-archer-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/ed-archer-chair.jpg"
+  },
+  {
+    "name": "Egyptian Revival Chair",
+    "seen_in": "Jupiter Station",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/egyptian-revival.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/egyptian-revival.jpg"
+  },
+  {
+    "name": "Emeco Navy Chair",
+    "seen_in": "Cochrane's bar in MontanaNazi facilityParnassus BetaKlingon facility on Mat'Aar XII",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/emeco-navy-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/emeco-navy-chair.jpg"
+  },
+  {
+    "name": "Empty Chair",
+    "seen_in": "RisaHolographic family homeKyana PrimeSpecies 8472 simulation of EarthVarro ship",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/empty-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/empty-chair.jpg"
+  },
+  {
+    "name": "Faceted Form Chair",
+    "seen_in": "Deep Space K-7ECS Horizon quartersDefiant quarters (ENT: \"In a Mirror, Darkly\")",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/faceted-form-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/faceted-form-chair.jpg"
+  },
+  {
+    "name": "Fasem P40",
+    "seen_in": "Narek's quarters on the Artifact",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/p40.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/p40.jpg"
+  },
+  {
+    "name": "Fasem T38",
+    "seen_in": "Café des Artistes (holoprogram)",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/fasem-t38.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/fasem-t38.jpg"
+  },
+  {
+    "name": "First Chair",
+    "seen_in": "Enterprise-D classroom",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/first-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/first-chair.jpg"
+  },
+  {
+    "name": "Follia Chair",
+    "seen_in": "Kiva's Fajo's collectionYanas Tigan's house",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/follia.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/follia.jpg"
+  },
+  {
+    "name": "Gakko Slide Chair",
+    "seen_in": "Discovery mess hall",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/gakko-sled.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/gakko-sled.jpg"
+  },
+  {
+    "name": "Hill House Chair",
+    "seen_in": "Tarquin's planet",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/hill-house-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/hill-house-chair.jpg"
+  },
+  {
+    "name": "IKEA Anima",
+    "seen_in": "Quark's Bar",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/ikea-anima.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/ikea-anima.jpg"
+  },
+  {
+    "name": "IKEA Pajala",
+    "seen_in": "Sisko's Creole KitchenAjilon Prime field hospital",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/ikea-pajala.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/ikea-pajala.jpg"
+  },
+  {
+    "name": "Hannah Stack Chair",
+    "seen_in": "Florida (Trip's nightmare)",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/izzy-hannah.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/izzy-hannah.jpg"
+  },
+  {
+    "name": "J&J Kohn Nr. 728",
+    "seen_in": "Riker's quarters on the Enterprise-DHospital on Valakian homeworld",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/jj-kohn-728.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/jj-kohn-728.jpg"
+  },
+  {
+    "name": "Knoll Toledo",
+    "seen_in": "Cochrane's bar in MontanaVoyager crew quartersCosimo's in San Francisco (alternate reality)Alien repair station",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/knoll-toledo.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/knoll-toledo.jpg"
+  },
+  {
+    "name": "Landi Chair",
+    "seen_in": "Cochrane's bar in MontanaRurigan's village",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/landi-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/landi-chair.jpg"
+  },
+  {
+    "name": "Landscape Chair",
+    "seen_in": "NX-01 mess hallNX-01 captain's dining room",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/landscape-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/landscape-chair.jpg"
+  },
+  {
+    "name": "Lila Hunter Chair",
+    "seen_in": "Holographic family home",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/lila-hunter.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/lila-hunter.jpg"
+  },
+  {
+    "name": "Lollipop Chair",
+    "seen_in": "Picard's holographic study",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/lollipop.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/lollipop.jpg"
+  },
+  {
+    "name": "Lusaka dining chair",
+    "seen_in": "Artifact recreation room",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/lusaka.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/lusaka.jpg"
+  },
+  {
+    "name": "Metrik Cantilever Chair",
+    "seen_in": "Discovery ready room",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/metrik-cantilever.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/metrik-cantilever.jpg"
+  },
+  {
+    "name": "MR Cantilever Chair",
+    "seen_in": "Starling's office",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/mr-cantilever.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/mr-cantilever.jpg"
+  },
+  {
+    "name": "Oh Chair",
+    "seen_in": "Archer's home (alternate future)",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/oh-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/oh-chair.jpg"
+  },
+  {
+    "name": "Olly Tango Chair",
+    "seen_in": "Species 8472 simulation of Earth",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/olly-tango.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/olly-tango.jpg"
+  },
+  {
+    "name": "Organic Chair",
+    "seen_in": "Starfleet officeXindi Council",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/organic-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/organic-chair.jpg"
+  },
+  {
+    "name": "Panton Chair",
+    "seen_in": "Trialas IV colony",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/panton.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/panton.jpg"
+  },
+  {
+    "name": "Peanut Chair",
+    "seen_in": "Enara Prime (dream)",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/peanut-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/peanut-chair.jpg"
+  },
+  {
+    "name": "Papyrus Chair",
+    "seen_in": "Raffi's trailer",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/papyrus.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/papyrus.jpg"
+  },
+  {
+    "name": "Revers Chair",
+    "seen_in": "Yanas Tigan's house",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/revers.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/revers.jpg"
+  },
+  {
+    "name": "Rhombus Chair",
+    "seen_in": "Enterprise-D dining room",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/rhombus.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/rhombus.jpg"
+  },
+  {
+    "name": "Romantica Chair",
+    "seen_in": "Sikla Medical Facility on Malcor IIIDr. Soong's labTaresian homeworldKrenim weapon ship crew loungeGrat's office on Tandaran homeworld",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/romantica-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/romantica-chair.jpg"
+  },
+  {
+    "name": "S44 Chair",
+    "seen_in": "Deep Space 9 courtroom",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/s44.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/s44.jpg"
+  },
+  {
+    "name": "Series 7 Armchair",
+    "seen_in": "FCA office on Ferenginar",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/series7.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/series7.jpg"
+  },
+  {
+    "name": "Side chairby Robert Kjer Jakobsen",
+    "seen_in": "Loomis's apartment",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/side-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/side-chair.jpg"
+  },
+  {
+    "name": "SS33 Chair",
+    "seen_in": "Starfleet Headquarters lounge",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/ss33.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/ss33.jpg"
+  },
+  {
+    "name": "Sylvie Chair",
+    "seen_in": "Enterprise-D crew quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/sylvie.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/sylvie.jpg"
+  },
+  {
+    "name": "T-Chair",
+    "seen_in": "Cochrane's house",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/t-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/t-chair.jpg"
+  },
+  {
+    "name": "Velox Chair",
+    "seen_in": "Rutia IV",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/velox.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/velox.jpg"
+  },
+  {
+    "name": "Von Vogelsang Chair",
+    "seen_in": "Enterprise-D conference room",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/von-vogelsang.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/von-vogelsang.jpg"
+  },
+  {
+    "name": "Bar stoolby Robert JostenCaptain Proton's rocket shipVOY: \"Bride of Chaotica!\"Robert Josten designed this stool, just like the very similar looking chair (see above).The stool appears on the Captain Proton rocket ship both in VOY: \"Night\" and \"Bride of Chaotica!\".",
+    "seen_in": "Captain Proton's rocket ship",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/stool-josten.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/chair-brideofchaotica.jpg"
+  },
+  {
+    "name": "Cassis Bar StoolPike's quarters on SNW-EnterpriseENT: \"Wedding Bell Blues\"Available at LumiSource.",
+    "seen_in": "Pike's quarters on SNW-Enterprise",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/stool-cassis.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/chairs1-weddingbellblues.jpg"
+  },
+  {
+    "name": "Frenesí Bar Stool",
+    "seen_in": "Enterprise-D engineeringUSS Voyager sickbayKim's office in San Francisco",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/frenesi.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/frenesi.jpg"
+  },
+  {
+    "name": "IKEA Janinge",
+    "seen_in": "Discovery science lab",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/ikea-janinge.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/ikea-janinge.jpg"
+  },
+  {
+    "name": "Jamaica Bar Stool",
+    "seen_in": "Cochrane's bar in MontanaLibby's apartment in San Francisco (alternate reality)Jupiter Station",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/jamaica-stool.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/jamaica-stool.jpg"
+  },
+  {
+    "name": "Jamaica Stool (low)",
+    "seen_in": "Arik Soong's cell",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/jamaica-stool-low.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/jamaica-stool-low.jpg"
+  },
+  {
+    "name": "Lem Stool",
+    "seen_in": "Starfleet Headquarters reception desk",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/lem-stool.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/lem-stool.jpg"
+  },
+  {
+    "name": "Lucite Bar Stool",
+    "seen_in": "Ten Forward",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/lion-in-frost-lucite-bar-stool.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/lion-in-frost-lucite-bar-stool.jpg"
+  },
+  {
+    "name": "Lucite Stool",
+    "seen_in": "Darwin Genetic Research Station",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/lucite.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/lucite.jpg"
+  },
+  {
+    "name": "Magis Bombo Stool",
+    "seen_in": "Krenim shipBenthan ship\"USS Dauntless\"Varro shipUSS RelativityVaadwaur homeworldPathfinder labJupiter StationLokirrim shipKantare ship",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/magis-bombo-bar-stool.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/magis-bombo-bar-stool.jpg"
+  },
+  {
+    "name": "Miura Bar Stool",
+    "seen_in": "SNW-Enterprise sickbay",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/miura-barstool.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/miura-barstool.jpg"
+  },
+  {
+    "name": "Paperclip Stool",
+    "seen_in": "Romulan engineering",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/paperclip-stool.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/paperclip-stool.jpg"
+  },
+  {
+    "name": "Platner Stool",
+    "seen_in": "Troi's office",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/platner-stool.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/platner-stool.jpg"
+  },
+  {
+    "name": "Primo Stool",
+    "seen_in": "Titan-A sickbayTitan-A lab",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/primo-stool.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/primo-stool.jpg"
+  },
+  {
+    "name": "Prince Aha Stool",
+    "seen_in": "Species 8472 simulation of Earth",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/prince-aha.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/prince-aha.jpg"
+  },
+  {
+    "name": "Real Good counter stool",
+    "seen_in": "Ten Forward simulation",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/real-good.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/real-good.jpg"
+  },
+  {
+    "name": "Rocchetto Stool",
+    "seen_in": "Starfleet Headquarters loungeEnterprise-D engineeringGatherer shipFerengi Marauder",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/rocchetto.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/rocchetto.jpg"
+  },
+  {
+    "name": "Sarapis Stool",
+    "seen_in": "Kazon conference room",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/sarapis.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/sarapis.jpg"
+  },
+  {
+    "name": "Sequoia Stool",
+    "seen_in": "Emerald Chain lab",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/sequoia.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/sequoia.jpg"
+  },
+  {
+    "name": "Stokke Barstool",
+    "seen_in": "Tarellian shipAlexander's room",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/stokke-barstool.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/stokke-barstool.jpg"
+  },
+  {
+    "name": "Thinline stool",
+    "seen_in": "Sigma Draconis VI",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/thinline-stool.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/thinline-stool.jpg"
+  },
+  {
+    "name": "Tubular Stool",
+    "seen_in": "Custodian room on AldeaMirasta Yale's lab on Malcor III",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/tubular-stool.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/tubular-stool.jpg"
+  },
+  {
+    "name": "Arper Aston",
+    "seen_in": "Starbase 1 conference roomUSS Stargazer conference lounge",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/arper-aston.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/arper-aston.jpg"
+  },
+  {
+    "name": "Canasta Swivel Chair",
+    "seen_in": "Brynner Information Systems",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/canasta.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/canasta.jpg"
+  },
+  {
+    "name": "Charlie Swivel Chair",
+    "seen_in": "Barclay's classroom",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/charlie.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/charlie.jpg"
+  },
+  {
+    "name": "Cobra Chair",
+    "seen_in": "Enterprise-D officesEnterprise-D quartersVoyager sickbay office",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/cobra.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/cobra.jpg"
+  },
+  {
+    "name": "Ergoform Workseat",
+    "seen_in": "Enterprise-D science labJovis shuttlebayEnterprise-A bridgeEnterprise-B bridgeEnterprise-D medical labBaran's bridgeUSS Pasteur bridgeUSS Prometheus bridgeUSS Prometheus dining roomUSS Raven bridge\"USS Dauntless\" bridgeVarro shipDinaali Level BlueECS Horizon bridgeKumari ready room",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/ergoform.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/ergoform.jpg"
+  },
+  {
+    "name": "Fina Soft",
+    "seen_in": "Admiral Pike's officeStarfleet meeting room",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/fina-lounge.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/fina-lounge.jpg"
+  },
+  {
+    "name": "Goodform Model 2123",
+    "seen_in": "McKinley Rocket Base",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/model-2123.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/model-2123.jpg"
+  },
+  {
+    "name": "Graph Conference Chair",
+    "seen_in": "SNW-Enterprise conference roomSNW-Enterprise sickbay officeSNW-Enterprise interrogation roomSpock's quarters on SNW-Enterprise",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/wilkhahn-graph.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/wilkhahn-graph.jpg"
+  },
+  {
+    "name": "HÅG Anova 2030",
+    "seen_in": "Enterprise-D observation loungeEnterprise-D crew quartersGatherer shipStarfleet Command (\"Star Trek IV\")Shuttlecraft (\"Star Trek V\")Jenolan bridgePasteur ready roomPrometheus captain's chairChallenger ready roomAdmiral Janeway's office (alternate future)",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/hag-anova.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/hag-anova.jpg"
+  },
+  {
+    "name": "HÅG Balans Activ",
+    "seen_in": "Regula I station",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/balans-activ.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/balans-activ.jpg"
+  },
+  {
+    "name": "HÅG Capiscowith saddle seat (1980)",
+    "seen_in": "Excelsior bridgeEnterprise-D science labVoyager bridge\"USS Dauntless\" bridgeEnterprise-E engineeringJupiter Station",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/hag-capisco-classic.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/hag-capisco-classic.jpg"
+  },
+  {
+    "name": "HÅG Capiscowith saddle seat (modern)",
+    "seen_in": "USS Hiawatha",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/hag-capisco-with-saddle-seat.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/hag-capisco-with-saddle-seat.jpg"
+  },
+  {
+    "name": "HÅG H3 340",
+    "seen_in": "Holographic Jupiter Station labNX-01 ready roomNX-01 sickbay",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/hag-h3-350.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/hag-h3-350.jpg"
+  },
+  {
+    "name": "HÅG Signét 7700",
+    "seen_in": "Runabout aft sectionRonara PrimeVoyager conference roomZobral's planet",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/hag-signet-7700.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/hag-signet-7700.jpg"
+  },
+  {
+    "name": "HÅG Signét 8400",
+    "seen_in": "Enterprise-E conference roomVoyager ready roomVulcan High Command",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/hag-signet-8400.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/hag-signet-8400.jpg"
+  },
+  {
+    "name": "Interstuhl Silver 151S",
+    "seen_in": "Kelvin bridge",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/interstuhl-silver-151s.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/interstuhl-silver-151s.jpg"
+  },
+  {
+    "name": "Interstuhl Silver 810S",
+    "seen_in": "Kelvin bridge",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/interstuhl-810s.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/interstuhl-810s.jpg"
+  },
+  {
+    "name": "Kicca swivel chair",
+    "seen_in": "Jack Crusher's quarters on the Titan-A",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/kicca.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/kicca.jpg"
+  },
+  {
+    "name": "Merrifair Wau",
+    "seen_in": "La Sirena captain's quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/merrifair-wau.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/merrifair-wau.jpg"
+  },
+  {
+    "name": "Monarch Specialties I 7271",
+    "seen_in": "Enterprise-F bridge",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/monarch-specialties.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/monarch-specialties.jpg"
+  },
+  {
+    "name": "Office Chairby Jørgen Rasmussen",
+    "seen_in": "Eminiar VII",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/rasmussen.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/rasmussen.jpg"
+  },
+  {
+    "name": "Omnific Chair",
+    "seen_in": "Enterprise-D chief engineer's officeEnterprise-D labEnterprise-D quartersEnterprise-D courtroomUSS Sutherland bridge",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/omnific.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/omnific.jpg"
+  },
+  {
+    "name": "Saddle Chair Anatomical Small",
+    "seen_in": "La Sirena sickbay",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/saddle-chair.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/saddle-chair.jpg"
+  },
+  {
+    "name": "Soft Pad EA 219",
+    "seen_in": "Starfleet conference room",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/soft-pad-ea-219.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/soft-pad-ea-219.jpg"
+  },
+  {
+    "name": "Sulky Collection",
+    "seen_in": "Deep Space 9 wardroom",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/sulky.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/sulky.jpg"
+  },
+  {
+    "name": "Teknion RBT",
+    "seen_in": "Discovery bridge",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/teknion-rbt.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/teknion-rbt.jpg"
+  },
+  {
+    "name": "Teknion Sabrina",
+    "seen_in": "Cabot conference room",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/teknion-sabrina.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/teknion-sabrina.jpg"
+  },
+  {
+    "name": "Zuo Unico",
+    "seen_in": "StarbaseDiscovery conference roomDiscovery crew quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/zuo-unico.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/zuo-unico.jpg"
+  },
+  {
+    "name": "FloFit seat",
+    "seen_in": "Defiant bridgeRotarran bridge stations",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/flofit.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/flofit.jpg"
+  },
+  {
+    "name": "Garelick 099",
+    "seen_in": "Defiant bridge",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/garelick-099.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/garelick-099.jpg"
+  },
+  {
+    "name": "Hunsaker Big Boy",
+    "seen_in": "K't'inga-class bridgeEarth transporter stationEnterprise-D crew quarters",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/hunsaker-big-boy.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/hunsaker-big-boy.jpg"
+  },
+  {
+    "name": "MH OCH 300",
+    "seen_in": "Starbase Yorktown communication center",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/mc-oh-300.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/mc-oh-300.jpg"
+  },
+  {
+    "name": "PAVO all-purpose medical chair",
+    "seen_in": "SNW-Enterprise sickbay",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/pavo-medical.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/pavo-medical.jpg"
+  },
+  {
+    "name": "Procar Rally",
+    "seen_in": "Type-15 shuttle",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/procar-rally.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/procar-rally.jpg"
+  },
+  {
+    "name": "Recaro C",
+    "seen_in": "Klingon BoP \"Bounty\" bridgeKlingon BoP Pagh bridgeRomulan D'deridex class bridgePromellian battlecruiser bridge",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/recaro-c.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/recaro-c.jpg"
+  },
+  {
+    "name": "Recaro CSE",
+    "seen_in": "Runabout cockpit",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/recaro-cse.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/recaro-cse.jpg"
+  },
+  {
+    "name": "Recaro LX",
+    "seen_in": "Enterprise-E captain's chair (unseen)Enterprise NX-01 captain's chair",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/recaro-specialist.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/recaro-specialist.jpg"
+  },
+  {
+    "name": "Todd 5 Star Series helm seat",
+    "seen_in": "NX-01 captain's chair",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/todd-5-star.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/todd-5-star.jpg"
+  },
+  {
+    "name": "Wise Padded Plastic Fold Down Seat",
+    "seen_in": "Enterprise-B bridge",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/wise-8wd139ls-012.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/wise-8wd139ls-012.jpg"
+  },
+  {
+    "name": "Wise Pro Casting Seat",
+    "seen_in": "Enterprise-E engineering",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/wise-8wd112bp.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/wise-8wd112bp.jpg"
+  },
+  {
+    "name": "Wise Swept Back Style Bucket Seat",
+    "seen_in": "Enterprise-E bridge console",
+    "image_url": "https://www.ex-astris-scientia.org/database/chairs/wise-bucket-seat.jpg",
+    "link": "https://www.ex-astris-scientia.org/database/chairs/wise-bucket-seat.jpg"
+  }
+]
